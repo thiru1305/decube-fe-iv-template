@@ -7,7 +7,7 @@
 - (Required) List popular movies. You have freedom to decide what UI is best for the web app, but in case that you need some inspiration, you can refer to the [Assignment Details](#assignment-details).
 - (Required) Display movie details. When user go to the popular movie listing, and user click one of them, user should be expected to navigate to the movie details. The navigation strategy is up to you, whether you prefer modal-view, or page-view, as long as the user can see movie details.
 
-2. You will have 1-hour time frame to develop the product. This template is given to you to ease your setup, however you are required to use Typescript and Tailwind CSS throughout the development.
+2. You will have **_1-hour time frame_** to develop the product. This template is given to you to ease your setup, however you are **_required to use Typescript and Tailwind CSS_** throughout the development.
 
 3. You have the freedom to use any tools - that includes _googling_, using any LLM tools such as _ChatGPT_, however you will be assessed continuously during the usage of such tools.
 
