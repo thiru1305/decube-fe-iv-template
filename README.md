@@ -1,5 +1,13 @@
 # Welcome to my FE Interview Template
 
+## Setup
+
+1. Make sure that you have IDE of your choice installed in your machine. In case you are not, you can use alternative such as CodeSandbox, or Stackblitz to start coding.
+
+2. Fork this project, and you can start adding your code. By the end of the session, you are required to push your changes and share the repository to the assessor through email.
+
+3. Make sure that your repository's visibility is set to public. You can go to your forked repository settings, and ensure that the visibility is set to public.
+
 ## Instruction
 
 1. You are required to create a simple web app that fit these requirements:
@@ -14,6 +22,8 @@
 4. Other than provided dependencies, you may add other dependencies which you see fit to make this development successful.
 
 5. You can add other enhancements as you see fit as a bonus.
+
+6. After 1-hour session ended, you need to push your changes to Github.
 
 > If it's flipping hamburgers at McDonald's, be the best hamburger flipper in the world. Whatever it is you do you have to master your craft. -Snoop Dog-
 
