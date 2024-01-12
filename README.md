@@ -1,40 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to my FE Interview Template
 
-## Getting Started
+## Instruction
 
-First, run the development server:
+1. You are required to create a simple web app that fit these requirements:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- (Required) List popular movies. You have freedom to decide what UI is best for the web app, but in case that you need some inspiration, you can refer to the [Assignment Details](#assignment-details).
+- (Required) Display movie details. When user go to the popular movie listing, and user click one of them, user should be expected to navigate to the movie details. The navigation strategy is up to you, whether you prefer modal-view, or page-view, as long as the user can see movie details.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. You will have 1-hour time frame to develop the product. This template is given to you to ease your setup, however you are required to use Typescript and Tailwind CSS throughout the development.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+3. You have the freedom to use any tools - that includes _googling_, using any LLM tools such as _ChatGPT_, however you will be assessed continuously during the usage of such tools.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+4. Other than provided dependencies, you may add other dependencies which you see fit to make this development successful.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+5. You can add other enhancements as you see fit as a bonus.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## Assignment Details
 
-To learn more about Next.js, take a look at the following resources:
+For design inspiration, you can see [the example here](<https://www.figma.com/file/Y8ohcJuzy1O0rNVRcGrim3/HTML-%26-CSS-Basics-(Community)?type=design&node-id=102-442&mode=design&t=lEAUHJUGaUvl0BnH-0>)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+For interview purpose, you need to incorporate two endpoints:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **_Popular Movie Listing_**: https://developer.themoviedb.org/reference/movie-popular-list
+- **_Movie Details_**: https://developer.themoviedb.org/reference/movie-details
 
-## Deploy on Vercel
+The API Key has been provided to you inside `.env` file.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For any more information, you can ask the assessor anytime during the interview.
