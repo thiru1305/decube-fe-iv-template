@@ -17,8 +17,6 @@
 
 > If it's flipping hamburgers at McDonald's, be the best hamburger flipper in the world. Whatever it is you do you have to master your craft. -Snoop Dog-
 
----
-
 ## Assignment Details
 
 For design inspiration, you can see [the example here](<https://www.figma.com/file/Y8ohcJuzy1O0rNVRcGrim3/HTML-%26-CSS-Basics-(Community)?type=design&node-id=102-442&mode=design&t=lEAUHJUGaUvl0BnH-0>)
