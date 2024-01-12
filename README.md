@@ -15,6 +15,8 @@
 
 5. You can add other enhancements as you see fit as a bonus.
 
+> If it's flipping hamburgers at McDonald's, be the best hamburger flipper in the world. Whatever it is you do you have to master your craft. -Snoop Dog-
+
 ---
 
 ## Assignment Details
