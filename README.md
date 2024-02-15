@@ -38,6 +38,8 @@ For interview purpose, you need to incorporate two endpoints, which are provided
 - **_Popular Movie Listing_**: https://developer.themoviedb.org/reference/movie-popular-list
 - **_Movie Details_**: https://developer.themoviedb.org/reference/movie-details
 
-The API Key has been provided to you inside `.env` file.
+The bearer token has been provided to you inside `.env` file.
+
+The API should return you the path to the image relative to the TMDB Image API. The domain is provided for you in the `.env` file as well.
 
 For any more information, you can ask the assessor anytime during the interview.
