@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Make sure that you have IDE of your choice installed in your machine. In case you are not, you can use alternative such as CodeSandbox, or Stackblitz to start coding.
+1. Make sure that you have IDE of your choice installed in your machine. In case you are not, you can use alternatives such as CodeSandbox, or Stackblitz to start coding.
 
 2. Fork this project, and you can start adding your code. By the end of the session, you are required to push your changes and share the repository to the assessor through email.
 
@@ -19,13 +19,11 @@
 
 2. You will have **_1-hour time frame_** to develop the product. This template is given to you to ease your setup, however you are **_required to use Typescript and Tailwind CSS_** throughout the development.
 
-3. You have the freedom to use any tools - that includes _googling_, using any LLM tools such as _ChatGPT_, however you will be assessed continuously during the usage of such tools.
+3. Other than provided dependencies, you may add other dependencies which you see fit to make this development successful.
 
-4. Other than provided dependencies, you may add other dependencies which you see fit to make this development successful.
+4. You can add other enhancements as you see fit as a bonus.
 
-5. You can add other enhancements as you see fit as a bonus.
-
-6. After 1-hour session ended, you need to push your changes to Github.
+5. After 1-hour session ended, you need to push your changes to Github.
 
 > If it's flipping hamburgers at McDonald's, be the best hamburger flipper in the world. Whatever it is you do you have to master your craft. -Snoop Dog-
 
